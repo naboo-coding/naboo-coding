@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anna!
-- 🌱 I've just started learning programming, so I hope you can give me some hints ;)
+- - 🌱 I've being programming for a while now, since i  was 10 years old.
 - You can contact me trhough email or Linkedin.
