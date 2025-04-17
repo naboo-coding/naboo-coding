@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anna!
 - 🌱 I've being programming for a while now, since i  was 10 years old.
-- You can contact me trhough email or Linkedin.
+- You can contact me through email or Linkedin.
