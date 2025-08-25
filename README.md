@@ -2,12 +2,26 @@
 
 ### 👩‍💻 About Me  
 - 🚀 Developer with a lifelong curiosity for technology — started coding at **10 years old**.  
-- 💡 Passionate about building clean, scalable, and impactful solutions (from scripts to full-stack apps).  
 - 📊 Strong background in problem-solving, algorithms, and modern web technologies.  
-- 🤝 Active collaborator in open-source projects and always eager to learn from others.  
-- 🌍 Interested in **software engineering, data science, and cloud technologies**.  
+- 🌍 Interested in **software engineering, data science, cloud technologies, cybersecurity, AI engineering, software development**.  
 - 📫 Let’s connect: [Email](mailto:anna.beatriz.gamba@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anna-beatriz-g-muller)  
 
+---
+
+
+
+### 📜 Certificates & Achievements  
+<p>
+  <a href="https://www.credly.com/badges/06893346-5d91-4783-99ac-21b4beaecf71/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-CCNA%20Intro%20to%20Networks-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+  <a href="https://www.credly.com/badges/3d4031bb-5569-488f-aade-82d1a5091eb3/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco-Network%20Defense-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+  <a href="https://www.udemy.com/certificate/UC-fa53f8fd-e140-43a9-b99e-7a8d0e55dbf3/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-Agile%20%26%20Scrum%20Business%20Analyst-purple?style=for-the-badge&logo=udemy"/>
+  </a>
+</p>
 
 ---
 
