@@ -1,8 +1,19 @@
 # 🌿 Hi, I’m Anna  
 
+<p align="center">
+    <a href="https://github.com/naboo-coding">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=8A9A5B&size=25&center=true&vCenter=true&width=600&height=100&lines=0101011101100101011011000110001101101111011011010110010100100001">
+    </a>
+</p>
+
+---
+
+
+
+
 ### 👩‍💻 About Me  
+- 👩🏻‍🎓 Computer Science student at PUCPR [1/8]
 - 🚀 Developer with a lifelong curiosity for technology — started coding at **10 years old**.  
-- 📊 Strong background in problem-solving, algorithms, and modern web technologies.  
 - 🌍 Interested in **software engineering, data science, cloud technologies, cybersecurity, AI engineering, software development**.  
 - 📫 Let’s connect: [Email](mailto:anna.beatriz.gamba@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anna-beatriz-g-muller)  
 
