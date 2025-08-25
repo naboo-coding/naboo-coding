@@ -12,6 +12,16 @@
 ---
 
 
+
+### 📊 GitHub Stats  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naboo-coding&show_icons=true&theme=merko&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naboo-coding&layout=compact&theme=merko&count_private=true&langs_count=10" />
+</div>  
+
+---
+
+
 ### ⚡ Tech Stack  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,12 +38,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naboo-coding&show_icons=true&theme=merko&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naboo-coding&layout=compact&theme=merko&count_private=true&langs_count=10" />
-</div>  
-
----
-
