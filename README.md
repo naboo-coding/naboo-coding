@@ -16,7 +16,7 @@
 - 🚀 Developer with a lifelong curiosity for technology — started coding at **10 years old**.  
 - 🌍 Interested in **software engineering, data science, cloud technologies, cybersecurity, AI engineering, software development**.  
 - 📫 Let’s connect: [Email](mailto:anna.beatriz.gamba@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anna-beatriz-g-muller)
-- My curriculum: [Curriculum](https://www.overleaf.com/read/mstqncktskqk#495341)
+- 📝 My curriculum: [Curriculum](https://www.overleaf.com/read/mstqncktskqk#495341)
 
 ---
 
