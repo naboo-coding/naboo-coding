@@ -12,7 +12,7 @@
 
 
 ### 👩‍💻 About Me  
-- 👩🏻‍🎓 Computer Science student at PUCPR [1/8]
+- 👩🏻‍🎓 Computer Science student at PUCPR [2/8]
 - 🚀 Developer with a lifelong curiosity for technology — started coding at **10 years old**.  
 - 🌍 Interested in **software engineering, data science, cloud technologies, cybersecurity, AI engineering, software development**.  
 - 📫 Let’s connect: [Email](mailto:anna.beatriz.gamba@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anna-beatriz-g-muller)
